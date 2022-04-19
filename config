@@ -1,0 +1,6 @@
+Host GCP
+  HostName sv12515.xserver.jp
+  User xs841584
+  Port 10022
+  IdentityFile C:\Users\okyakusama\.ssh\config
+  IdentitiesOnly yes
